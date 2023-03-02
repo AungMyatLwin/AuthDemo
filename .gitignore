@@ -1,3 +1,4 @@
 node_modules
 .expo
 .env
+util/API_KEY/Api_key.js
